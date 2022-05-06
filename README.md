@@ -85,3 +85,8 @@ https://necolas.github.io/normalize.css/
 how to setup the HTML&CSS for the project  
 HTML&CSS Project - Simply Recipes 2 hours tutorial  
 https://youtu.be/m3LbCAL9JUI
+
+### 5. Assets and Icons
+
+https://react-icons.github.io/react-icons/  
+`npm install react-icons --save`
