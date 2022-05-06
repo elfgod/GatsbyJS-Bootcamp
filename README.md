@@ -64,6 +64,10 @@ https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-hello-world/
 To delete the .cache, public run:  
 `gatsby clean`
 
+### 3. Inline CSS
+
+`<h1 style={{ color: "red", textTransform: "capitalize" }}>Home page</h1>`
+
 ## Section 3:
 
 ### Folder 01:
