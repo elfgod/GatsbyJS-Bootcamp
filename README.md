@@ -68,8 +68,11 @@ To delete the .cache, public run:
 
 `<h1 style={{ color: "red", textTransform: "capitalize" }}>Home page</h1>`
 
-## Section 3:
+### 4. Styles
 
-### Folder 01:
+Normalize.css  
+A modern, HTML5-ready alternative to CSS resets
 
-### 1.
+Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.  
+https://necolas.github.io/normalize.css/  
+`npm install normalize.css`
