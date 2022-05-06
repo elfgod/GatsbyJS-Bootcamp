@@ -61,6 +61,9 @@ https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-hello-world/
 
 `gatsby develop`
 
+To delete the .cache, public run:  
+`gatsby clean`
+
 ## Section 3:
 
 ### Folder 01:
