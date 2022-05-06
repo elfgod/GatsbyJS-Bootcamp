@@ -76,3 +76,7 @@ A modern, HTML5-ready alternative to CSS resets
 Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.  
 https://necolas.github.io/normalize.css/  
 `npm install normalize.css`
+
+how to setup the HTML&CSS for the project  
+HTML&CSS Project - Simply Recipes 2 hours tutorial  
+https://youtu.be/m3LbCAL9JUI
