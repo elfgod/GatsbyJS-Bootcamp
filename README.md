@@ -37,6 +37,11 @@ Gatsby loads only critical 1 parts of the page, exactly when the visitor needs i
 
 - Basic Knowledge of React
 
+### Helpers
+
+1. Dummy text? More like dummy thicc text, amirite?  
+   https://hipsum.co/
+
 ## Section 1: Introduction
 
 ## Section 2: Gatsby Tutorial - SimplyRecipes Project
