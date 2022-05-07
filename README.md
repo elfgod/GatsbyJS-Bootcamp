@@ -1,8 +1,11 @@
 # Gatsby.js Tutorial and Projects Course
 
-Create Blazingly Fast Websites with latest version of Gatsby.js
-Instructor: **John Smilga**
+Create Blazingly Fast Websites with latest version of Gatsby.js  
+Instructor: **John Smilga**  
 Course Repository:
+
+1. https://www.johnsmilga.com/ (Go to projects + Gatsby)
+2. https://github.com/john-smilga/gatsby-v3-tutorial-recipes
 
 ### What you'll learn:
 
