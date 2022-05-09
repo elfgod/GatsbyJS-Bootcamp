@@ -89,7 +89,20 @@ how to setup the HTML&CSS for the project
 HTML&CSS Project - Simply Recipes 2 hours tutorial  
 https://youtu.be/m3LbCAL9JUI
 
+// Read the docs for full CONFIGURATION OPTIONS //  
+gatsby-plugin-styled-components  
+A Gatsby plugin for styled-components with built-in server-side rendering support  
+https://www.gatsbyjs.com/plugins/gatsby-plugin-styled-components/?=style%20components  
+`npm install gatsby-plugin-styled-components styled-components babel-plugin-styled-components`
+
 ### 5. Assets and Icons
 
 https://react-icons.github.io/react-icons/  
 `npm install react-icons --save`
+
+### 5. Install Plugin Image
+
+Gatsby Image plugin  
+https://www.gatsbyjs.com/plugins/gatsby-plugin-image/?=gatsby-image-  
+https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-plugin-image/  
+`npm install gatsby-plugin-image gatsby-plugin-sharp gatsby-source-filesystem gatsby-transformer-sharp`
