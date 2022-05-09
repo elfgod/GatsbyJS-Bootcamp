@@ -49,7 +49,7 @@ const Navbar = () => {
           >
             about
           </Link>
-          <div class="nav-link contact-link">
+          <div className="nav-link contact-link">
             <Link to="/contact" className="btn" onClick={() => setShow(false)}>
               contact
             </Link>

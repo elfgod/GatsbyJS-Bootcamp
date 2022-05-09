@@ -1,10 +1,17 @@
 import React from "react"
 import styled from "styled-components"
-import big from "../assets/images/big.jpg"
+// import big from "../assets/images/big.jpg"
+import { StaticImage } from "gatsby-plugin-image"
+
 const Images = () => {
   return (
     <Wrapper>
-      <img src={big} alt="" />
+      <StaticImage src="../assets/images/big.jpg" alt="food" />
+      <StaticImage
+        src="https://res.cloudinary.com/diqqf3eq2/image/upload/v1613583026/course%20slides/js-2_mo9uqy.png"
+        alt="code"
+      />
+      {/* <img src={big} alt="" /> */}
       <h2>gatsby images</h2>
     </Wrapper>
   )
