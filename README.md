@@ -100,9 +100,14 @@ https://www.gatsbyjs.com/plugins/gatsby-plugin-styled-components/?=style%20compo
 https://react-icons.github.io/react-icons/  
 `npm install react-icons --save`
 
-### 5. Install Plugin Image
+### 6. Install Plugin Image
 
 Gatsby Image plugin  
 https://www.gatsbyjs.com/plugins/gatsby-plugin-image/?=gatsby-image-  
 https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-plugin-image/  
 `npm install gatsby-plugin-image gatsby-plugin-sharp gatsby-source-filesystem gatsby-transformer-sharp`
+
+### 7. GraphQL
+
+- In GraphiQL use this command to open options for querying:
+  `ctrl + spacebar`
