@@ -109,5 +109,8 @@ https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-plugin-image/
 
 ### 7. GraphQL
 
-- In GraphiQL use this command to open options for querying:
+- In GraphiQL use this command to open options for querying:  
   `ctrl + spacebar`
+
+- Field Alias: Change query from siteMetadata to info  
+  `info:siteMetadata`
