@@ -117,3 +117,7 @@ https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-plugin-image/
 
 - Query Keyword, Name and Gatsby Clean:
   This names must be unique
+
+### 8. ENV Variables
+
+https://www.gatsbyjs.com/docs/how-to/local-development/environment-variables/
