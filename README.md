@@ -121,3 +121,9 @@ https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-plugin-image/
 ### 8. ENV Variables
 
 https://www.gatsbyjs.com/docs/how-to/local-development/environment-variables/
+
+### 9. Recipe Template Page Walkthrough
+
+File System Route API  
+Use the File System Route API when you want to create dynamic pages e.g. to create individual blog post pages for your blog.  
+https://www.gatsbyjs.com/docs/reference/routing/file-system-route-api/
