@@ -127,3 +127,7 @@ https://www.gatsbyjs.com/docs/how-to/local-development/environment-variables/
 File System Route API  
 Use the File System Route API when you want to create dynamic pages e.g. to create individual blog post pages for your blog.  
 https://www.gatsbyjs.com/docs/reference/routing/file-system-route-api/
+
+### 10. Slugify
+
+https://www.npmjs.com/package/slugify
